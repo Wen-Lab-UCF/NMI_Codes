@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - name: "Wen Lab UCF"
+title: "NMI_Codes"
+version: "TNSRE_V.1.0"
+date-released: 2026-07-11
+url: "https://github.com/Wen-Lab-UCF/NMI_Codes"
+license: "MIT"
+type: software
